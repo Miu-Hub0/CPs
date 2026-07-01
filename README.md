@@ -348,9 +348,5 @@ MIT License © 2025 Mark Zambrem
 🌟 Tác giả
 
 Mark Zambrem — Creator & Lead Developer
-
 ---
-
 Built with ❤️ and Python
-
-```
