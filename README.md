@@ -1,4 +1,3 @@
-```markdown
 # ⚡ CP+* (C-Plus-Plus-Star)
 
 [![CP+*](https://img.shields.io/badge/CP%2B*-beta-blue)](https://github.com/markzambrem/cpps-native)
